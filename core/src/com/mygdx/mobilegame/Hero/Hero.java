@@ -1,8 +1,11 @@
 package com.mygdx.mobilegame.Hero;
 
-import com.badlogic.gdx.graphics.g2d.Sprite;
+import com.badlogic.gdx.Game;
 
-public class Hero extends Sprite {
+public class Hero extends Game {
 
+    @Override
+    public void create() {
 
+    }
 }
